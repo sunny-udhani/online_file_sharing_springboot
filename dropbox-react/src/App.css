@@ -1,0 +1,716 @@
+.App {
+    text-align: center;
+}
+
+.App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+}
+.mainpart{
+
+margin-top: 40px;
+}
+
+.navSty{
+
+    background-color: #FAFAFA;
+    padding-bottom: 725px;
+    text-align:left
+}
+.navText{
+    padding-top:30px;
+    padding-left:10px;
+    color: #4779DC;
+}
+
+.navText2{
+    padding-top: 10px;
+    padding-left:10px;
+    color: #4779DC;
+}
+.navButton{
+    padding-left: 2px;
+    padding-right:2px;
+    padding-top:2px;
+    padding-bottom:2px;
+    background-color:#2E9AFE
+}
+
+.navuploadButton{
+
+    text-align:center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color:#205FDE;
+    font-size: 14px;
+}
+.myStyle-main{
+
+    text-align: justify;
+    font-size: 20px;
+    margin-left: 50px;
+
+}
+.myStyle-main2{
+
+    text-align: justify;
+    font-size: 12px;
+    margin-left: 50px;
+
+}
+
+.myStyle-main3{
+    text-align: left;
+    float: left;
+    font-size: 12px;
+    margin-left: 50px;
+    color:#3d464d
+}
+.myStyle-main4{
+    padding-left: 50px;
+}
+.imageGridStyle{
+    text-align: left;
+    height:45px;
+}
+
+.logout{
+    margin-top: 35px;
+    font-size: 14px;
+    margin-left: 50px;
+    background-color:#205FDE
+
+}
+
+.navImageStyle{
+    text-align:left;
+    width: 45px;
+    padding-top: 35px;
+    padding-left:8px;
+    float: left
+}
+.App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+}
+
+.App-intro {
+    font-size: large;
+}
+
+a {
+    color: #2895F1;
+    text-decoration: none;
+    float: right;
+    cursor: pointer;
+    vertical-align: middle;
+    font-size: 13px;
+}
+
+.login-register-switch-link {
+
+    color: #2895F1;
+    text-decoration: none;
+    float: right;
+    cursor: pointer;
+    vertical-align: middle;
+    font-size: 13px;
+}
+
+.maestro-nav__products {
+    list-style: none;
+    padding: 20px;
+    text-align: center;
+}
+
+.maestro-nav__active-product {
+    color: #0070E0;
+}
+.ue-effect-container {
+    position: relative;
+}
+.maestro-nav__logo {
+    width: 32px;
+    height: 32px;
+    fill: #0070E0;
+}
+.maestro-nav__container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 240px;
+    min-width: 240px;
+    height: 100%;
+    background: #F7F9FA;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    min-height: 1000px;
+    text-align: center;
+    padding: 10px;
+}
+
+.maestro-nav__product-wrapper {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    height: 40px;
+}
+
+#rightbottom{
+  margin-top: 400px;
+  height: 350px;
+
+}
+.maestro-nav__product {
+    font-size: 16px;
+    line-height: 16px;
+    color: #637282;
+
+    -ms-flex: 1;
+    text-decoration: none;
+}
+.main-part{
+
+    text-align: center;
+    float: right;
+
+}
+.maestro-nav__home-button {
+    border: none;
+    background: transparent;
+    color: #2f3842;
+    display: inline-block;
+    position: relative;
+    margin-left: -8px;
+    margin-bottom: 24px;
+    padding: 0 0 0 8px;
+    cursor: pointer;
+}
+.maestro-nav__panel {
+    position: absolute;
+    top: 0;
+    bottom: 80px;
+
+
+}
+
+.dropdown-menu {
+  widh:auto;
+  text-align: center;
+}
+
+.dropdown-li {
+  text-align: center;
+  margin-left: 0px;
+}
+
+
+
+.checkbox_label{
+
+    float: left;
+    margin-left: 6px;
+    cursor: pointer;
+    vertical-align: middle;
+    font-size: 13px;
+    font-weight: 600;
+    color: #3d464d;
+}
+
+.dropbox-logo__glyph {
+    z-index: 4;
+    vertical-align: middle;
+    height: 46px;
+    width: 46px;
+    -o-object-fit: contain;
+    object-fit: contain;
+    display: inline-block;
+    -webkit-transition: all 300ms ease-in-out 0s;
+    transition: all 300ms ease-in-out 0s;
+    padding-top: 5px;
+}
+
+.dropbox-2015 .container {
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    max-width: 1200px;
+    min-width: 600px;
+    position: relative;
+}
+.page-header {
+    position: fixed;
+    z-index: 5;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    white-space: nowrap;
+    left: 240px;
+    width: calc(100% - (200px + 2 * 40px));
+    min-width: 744px;
+    background: #fff;
+    padding: 40px 0 0 40px;
+    height: 56px;
+}
+.dropbox-logo__type {
+    z-index: 3;
+    width: 120px;
+    height: 34px;
+    vertical-align: middle;
+    display: inline-block;
+    background: no-repeat center center;
+    position: relative;
+    top: 2px;
+    margin-left: 8px;
+    background-size: 120px auto;
+    -webkit-transition: all 300ms ease-in-out 0s;
+    transition: all 300ms ease-in-out 0s;
+
+}
+
+.login-register-header {
+    float: left;
+    font-size: 18px;
+    font-weight: normal;
+    color: #3d464d;
+}
+
+.Sign-in-button{
+    float: right;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+}
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.mast-head {
+    top: 0;
+    right: 0;
+    left: 0;
+    overflow: hidden;
+    position: fixed;
+    height: 76px;
+    z-index: 99;
+    font-size: 10;
+    background-color: #fff;
+    border-bottom: 1px solid #d0d4d9;
+
+    box-shadow: 0px 1px 1px #d0d4d9;
+}
+
+
+
+
+.hr-label {
+    position: relative;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    text-align: center;
+    clear: both;
+    overflow: hidden;
+}
+
+.checkbox label {
+    cursor: pointer;
+    margin-left: 7px;
+    vertical-align: middle;
+}
+.dropbox-logo {
+    margin: 13px auto;
+
+}
+
+.mast-head {
+    line-height: 26px
+}
+
+#login-or-register-page-content {
+    padding-top: 126px;
+    text-align: center;
+}
+
+#login-or-register-page-content .login-or-register-img, #login-or-register-page-content .login-register-container {
+    display: inline-block;
+    vertical-align: middle
+}
+
+#login-or-register-page-content .login-or-register-img {
+    margin-right: 90px;
+    margin-top: 80px;
+    margin-bottom: 110px
+}
+
+.auth-google.button-primary {
+    margin-top: 20px
+}
+
+#login-and-register-container #login-container {
+    display: block
+}
+
+#login-and-register-container.show-register #login-container {
+    display: none
+}
+
+#login-container {
+    width: 100%;
+    margin: 0 auto;
+    height: 400px
+}
+
+#login-container > form {
+    display: inline-block;
+    width: 357px
+}
+
+#login-container .splash {
+    float: left;
+    padding-left: 18px;
+    margin-top: 60px;
+    width: 464px;
+    height: 390px;
+    text-align: center
+}
+
+#login-container #login_lhs h1 {
+    font-size: 20px;
+    color: #000000;
+    text-align: center;
+    margin-top: 22px
+}
+
+#login-container #login_lhs h3 {
+    font-size: 15px;
+    font-weight: normal;
+    color: #666;
+    text-align: center;
+    margin-top: 6px
+}
+
+#login-container #login_lhs .login_lhs_action {
+    margin-top: 20px;
+    text-align: center
+}
+
+#login-container #login_lhs .login_lhs_teams_graphic {
+    margin: 40px 0 0 0
+}
+
+#login-container .title-text {
+    color: #222;
+    font-size: 22px;
+    font-weight: 600
+}
+
+#login-container .alternative-option {
+    float: right;
+    margin-top: 4px;
+    color: #444;
+    font-size: 13px
+}
+
+#login-container #sso-login-description {
+    margin: 20px 0;
+    font-size: 14px
+}
+
+#login-container #sso_login_submit, #login-container #sso_login_cancel {
+    float: right
+}
+
+#login-container #sso_login_cancel {
+    margin-right: 10px
+}
+
+#login-container > form {
+    margin-top: 115px;
+    margin-left: 50px
+}
+
+#login-container #forgot-link {
+    position: relative;
+    top: 15px;
+    float: left
+}
+
+#login-partial {
+    width: 357px
+}
+
+#login-partial #email-field {
+    margin-top: 16px;
+    margin-bottom: 12px
+}
+
+#login-partial #login-footer {
+    margin-top: 20px
+}
+
+#login-partial #login-footer #remember-me {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+    float: left
+}
+
+#login-partial #login-footer #remember-me label {
+    cursor: pointer
+}
+
+#login-partial #login-footer #sso_description {
+    float: left
+}
+
+#login-partial #login-footer #login_submit, #login-partial #login-footer .cancel-btn {
+    float: right;
+    margin-top: -6px
+}
+
+#open_in_app_interstitial {
+    text-align: center
+}
+
+#open_in_app_interstitial .instruction_text {
+    font-size: 135%
+}
+
+#open_in_app_interstitial p {
+    margin-bottom: 24px
+}
+
+#open_in_app_interstitial .openinapp-button {
+    margin: 0
+}
+
+.login-form-container .checkbox.checkbox-inline {
+    max-width: 230px
+}
+
+.login-register-container-wrapper {
+    display: inline;
+}
+
+.login-promo-upgrade {
+    background-color: #fafbfc;
+    border: 1px solid #e1e1e1;
+    border-radius: 5px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 30px 0 15px;
+    padding: 20px;
+    width: 350px
+}
+
+.download-button{
+  margin-right: 50px;
+  float: right;
+  border: none;
+}
+
+.ddo {
+    border-radius: 5px;
+    border: 1px solid grey;
+    padding: 10px;
+    margin-left: -75px;
+}
+
+
+.dropdownOption:hover {
+    border-radius: 5px;
+    border: 1px solid #3E8BC3;
+    padding: 10px;
+}
+
+.delete-button{
+  margin-right: 50px;
+  float: right;
+  border: none;
+}
+
+.toggleVisibility .play {
+    visibility: hidden;
+}
+
+.toggleVisibility:hover .play{
+    visibility: visible;
+    fill:#0070E0;
+}
+
+.toggleVisibility:hover .playBorder{
+    border-radius: 5px;
+    border: 1px solid #3E8BC3;
+    padding: 10px;
+}
+
+.playBorder:hover {
+    border-radius: 5px;
+    border: 1px solid #3E8BC3;
+    padding: 10px;
+}
+
+
+.toggleVisibility1 .play1 {
+    visibility: hidden;
+}
+
+.toggleVisibility1:hover .play1{
+    visibility: visible;
+    fill:#0070E0;
+}
+.playStarred{
+    visibility: visible;
+    fill:#0070E0;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+#new123{
+  color: black;
+  background-color: lightgreen;
+  padding: 1px 1px 1px 1px;
+  margin-top: 1px;
+}
+
+.ddleft{
+    text-align: left;
+    float: left;
+    margin-right: 20px;
+}
+
+
+
+
+
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: black;
+}
+
+
+
+.border1{
+	border: solid;
+}
+#hdr{
+	border-bottom-color: black;
+ border-bottom-style: solid;
+ border-bottom-width: thin;
+}
+
+form{
+#	background: lightblue;
+}
+
+#loadresult{
+ #background: lightblue;
+  }
+
+#left_header{
+	text-align:center;
+	margin:20px 20px 20px 50px;
+	border-color: #00B7FF;
+	color: #00B7FF;
+	background: white;
+	border-radius: 5px;
+}
+/*
+ img{
+ width:100%;
+ height:100%;
+ display: block;
+    margin: inherit;
+ }
+ */
+
+ .container{
+# background: khaki;
+ }
+ #logo{
+ margin-top: 30%;
+ margin-left:0%;
+ width:200%;
+ }
+
+ #row_1{
+ height:100%;
+ border-bottom-color: black;
+ border-bottom-style: solid;
+  border-bottom-width: thin;
+ }
+
+ .center_elements{
+ text-align: center;
+ }
+
+ #uname,#pass{
+ border-radius:3px;
+ width:50%;
+ height:40px;
+ }
+
+ #h6_right{
+ margin-left:10%;
+ }
+ #a_left{
+ margin-right: 40%;
+ }
+
+ #h5_right{
+ margin-left:30%;
+ }
+ #dropbox_img{
+ width:50%;
+ height:50%;
+ margin: auto;
+ }
+
+ #signin_btn,#signup_btn{
+ background: #4daae3;
+ color: white;
+ border-style:hidden;
+ padding:2% 2% 2% 2%;
+ border-radius: 5px;
+ }
+
+ #signin_btn{
+ margin-left:19%;
+ #margin-right:10%;
+ }
+ #signup_btn{
+ width:50%;
+ #margin-right:10%;
+ }
+
+.bg1{
+  background-color: white;
+}
+
+#x{
+  border-color: #00B7FF;
+}
