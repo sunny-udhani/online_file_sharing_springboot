@@ -14,6 +14,8 @@ A web application imitating features of dropbox with Java, SpringBoot and MySQL.
 
 ### Technology stack
 
+![tech-stack](readme-src/tech-stack.jpg)
+
 <table>
 <thead>
 <tr>
