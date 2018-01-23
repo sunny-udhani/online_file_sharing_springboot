@@ -1,5 +1,5 @@
 # dropbox_spring
-Dropbox Prototype with Java, SpringBoot and MySQL.
+A web application imitating features of dropbox with Java, SpringBoot and MySQL.
 > Individual academic project for Graduate software engineering course 273 - Enterprise Distributed Systems.
 
 ## Goal
