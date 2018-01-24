@@ -4,7 +4,7 @@ A web application imitating features of dropbox with Java, SpringBoot and MySQL.
 
 ## Goal
 
-* The goal is to build a distributed enterprise web application which enables the user not only to upload , star/unstar or delete files but also share files to other users, create groups, add/edit/delete members and view their own activity timeline.
+* The goal is to build a distributed enterprise web application which enables the user not only to upload , star/unstar or delete files/folders but also share files/folders to other users, create groups, add/edit/delete members and view their own activity timeline.
 
 * We were tasked with this project requirement so that we can learn and develop enterprise applications using latest technology trends like springboot. 
 
